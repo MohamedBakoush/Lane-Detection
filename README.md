@@ -2,7 +2,7 @@
 
 When driveing a vehicle, we use our eyes to decide where to go. Road Lines acts as a constant reference for where to steer our vehicles. Makeing it natural one of the first things to develop a self-driving car is to detect lane lines automatically using an algorithm.
 
-**Output Demo**
+**Output**
 
 <kbd><img src="./readme_images/output-demo.jpeg"/></kbd>
 
